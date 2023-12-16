@@ -1,0 +1,1 @@
+# Its a demo project where the video shows how can you use a url shorter! Python 3.6 w Django +2
