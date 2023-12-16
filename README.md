@@ -1,4 +1,4 @@
-# URL Shorter
+# URL Shorter - Project for The Muse
 
 Project made in Python - Django with the objective to convert a shorter url.
 
